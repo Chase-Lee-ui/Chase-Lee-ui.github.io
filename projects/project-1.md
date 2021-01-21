@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/Square-bound splash.png
-title: Micromouse
-permalink: projects/Square-bound
+title: Square-Bound
+permalink: projects/Square-Bound
 # All dates must be YYYY-MM-DD format!
 date: 2020-10-22
 labels:
