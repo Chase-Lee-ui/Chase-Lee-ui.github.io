@@ -12,8 +12,9 @@ labels:
   - Competition
 summary: I played for the UH Esports League of Legends team where we competitvely 
 ---
-
-<img class="ui image" src="{{ site.baseurl }}/images/C9U-UH.png">
+<div class="ui small rounded images">
+  <img class="ui image" src="{{ site.baseurl }}/images/C9U-UH.png">
+</div>
 
 I play for the UH Esports team as a member of team black. I played support in the game. This experience had really built my communication skills and confidence
 working with teams. I had to take criticism and apply it critically in practice. Like traditional sports, there need to be time commitments which I was able to handle
@@ -24,5 +25,5 @@ to different sectors of the gaming industry. To name one, UH Esports is in assoc
 program, stuidents can view the different aspects of running an organization such as Cloud 9. Whether it be advertisement, product development, or building public relations,
 Cloud 9 representatives are there to help students if they can.
 
-Follow UH Esports at: <a href="https://twitter.com/uhesport?lang=en">
+Follow UH Esports on [twitter](https://twitter.com/uhesport?lang=en).
 
