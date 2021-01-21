@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Enter Javascript Stage Right
+title: Flying First Class With Javascript
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-21
 labels:
