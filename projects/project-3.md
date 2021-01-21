@@ -1,61 +1,28 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/UHEsports.png
+title: UH Esports League of Legends Team
+permalink: projects/UH-Esports-League
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2020-09-20
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Esports
+  - Team-Oriented
+  - Competition
+summary: I played for the UH Esports League of Legends team where we competitvely 
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/C9U-UH.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+I play for the UH Esports team as a member of team black. I played support in the game. This experience had really built my communication skills and confidence
+working with teams. I had to take criticism and apply it critically in practice. Like traditional sports, there need to be time commitments which I was able to handle
+as I juggled school and work. 
 
-To give you a flavor of the game, here is an excerpt from one run:
+This was such an enjoyable experience to play with my peers on a competitive level, I was also able to make some connections out of it as well. This connections expand
+to different sectors of the gaming industry. To name one, UH Esports is in association with Cloud 9, a reputable company that has high-level gaming teams. In the student
+program, stuidents can view the different aspects of running an organization such as Cloud 9. Whether it be advertisement, product development, or building public relations,
+Cloud 9 representatives are there to help students if they can.
 
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Follow UH Esports at: <a href="https://twitter.com/uhesport?lang=en">
 
