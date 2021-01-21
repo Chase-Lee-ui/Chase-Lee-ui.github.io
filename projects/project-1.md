@@ -13,9 +13,7 @@ labels:
 summary: My team created a game to submit to the Beginner's Circle Game Jam. All assets were made from scratch.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/SquareBound.png">
-</div>
+<img class="ui image" src="../images/SquareBound.png">
 
 Square-Bound is a puzzle-platformer game where me and my peers had created completely from scratch. This experience had enlightened me and my team to many aspects of game design
 stages. This game was made using C# in the Unity Engine, we had to complete this project within 2 weeks of the theme being announced. I was able to juggle work and school to
