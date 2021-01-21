@@ -14,7 +14,7 @@ summary: My team created a game to submit to the Beginner's Circle Game Jam. All
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/Square-bound splash.png">
+  <img class="ui image" src="../images/SquareBound.png">
 </div>
 
 Square-Bound is a puzzle-platformer game where me and my peers had created completely from scratch. This experience had enlightened me and my team to many aspects of game design
