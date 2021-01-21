@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+<img class="ui tiny right spaced image" src="../images/javascript.png">
 
 For my spring 2021 semester at UH Manoa, I will be taking a class where I learn the major concepts of Javascript. In this class, I will be learning how to apply my Javascript code and
 learn other aspects of Javascript and coding in general, such as quality assurance of user interface. I am excited for my future in this course because it looks very promising for
