@@ -1,25 +1,25 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/unityimg.jpg
+title: UH Game Dev Club
+permalink: projects/Game-Dev
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2021-01-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Leadership
+  - Club Activity
+  - Game Design
+summary: I took responsibility in leading the Game Dev club as an officer.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/riotgameslogo.jpg">
+<img class="ui medium right floated rounded image" src="../images/blizzard.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+The UH Game Dev club includes talking about many topics about game design. This club helps lead students who have an interest in making games, whether they like coding or doing
+art, down a pathway to follow. Meeting topics include game design workshop where club members collaborate to talk about different aspects of a game, how they work, and why they
+work.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+This club also networks to famous industries in game design. We have recieved recruiters from Blizzard and had a guest speaker from Riot Games. Both of these companies have a huge
+reputation in the gaming industry. Club meetings are highly interactive, where officers only lead members through discussion which allows room for free thinking. The Game Dev Club
+is a good community for those to meet others who have similar passions in gaming.
