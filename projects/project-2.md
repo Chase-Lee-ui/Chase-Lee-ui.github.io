@@ -12,9 +12,10 @@ labels:
   - Game Design
 summary: I took responsibility in leading the Game Dev club as an officer.
 ---
-
-<img class="ui medium right floated rounded image" src="../images/riotgameslogo.jpg">
-<img class="ui medium right floated rounded image" src="../images/blizzard.jpg">
+<div class="ui small rounded images">
+  <img class="ui medium right floated rounded image" src="../images/riotgameslogo.jpg">
+  <img class="ui medium right floated rounded image" src="../images/blizzard.jpg">
+</div>
 
 The UH Game Dev club includes talking about many topics about game design. This club helps lead students who have an interest in making games, whether they like coding or doing
 art, down a pathway to follow. Meeting topics include game design workshop where club members collaborate to talk about different aspects of a game, how they work, and why they
