@@ -25,5 +25,8 @@ to different sectors of the gaming industry. To name one, UH Esports is in assoc
 program, stuidents can view the different aspects of running an organization such as Cloud 9. Whether it be advertisement, product development, or building public relations,
 Cloud 9 representatives are there to help students if they can.
 
+Kevin Nguyen, a UH Esports Coordinator, has helped me apply to gaming industries and provided me with many resources so that I can be successful. I believe that anyone who joins the
+UH Esports community can help grow their career in the gaming field, whether it be marketing or software engineering, there is a place for many people at UH Esports.
+
 Follow UH Esports on [twitter](https://twitter.com/uhesport?lang=en).
 
