@@ -41,3 +41,5 @@ Javascript by the end of the Spring 2021 school semester and hopefully I will al
 
 I hope that Javascript allows me to rocket into other coding languages as well, hopefully what I learn in this class, and what I am able to do with Javascript I am able to apply it to 
 other coding languages. I will also try to take part in coding outside of class, beyond the practice necessary for this class. I want to start a personal project using javascript so that I can add it to my list of achievements.
+
+I hope to meet my peers to work on Javascript projects in the near future, and that will be one of many stones cemented in my pathway of becoming a software engineer.
