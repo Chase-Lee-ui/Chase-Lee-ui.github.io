@@ -84,6 +84,31 @@
       ]
     }
   ],
+  "activities": [
+    {
+      "organization": "Game Dev Club",
+      "website": "",
+      "position": "Club Officer",
+      "startDate": "2021-01-11",
+      "endDate": "Present",
+      "summary": "Offices lead students down the game development career path",
+      "highlights": [
+        "Lead and guide students and club members down introductory game development elements",
+        "Schedule dates and meetings with members to discuss aspects of game design"
+      ]
+    },
+    {
+      "organization": "International Student Association",
+      "website": "",
+      "position": "Club Member",
+      "startDate": "2020-01-11",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Members take time to appreciate and understand cultural differences"
+      ]
+    }
+  ],
   "awards": [
     {
       "title": "B+ Scholarship",
