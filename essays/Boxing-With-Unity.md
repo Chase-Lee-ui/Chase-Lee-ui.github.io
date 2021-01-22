@@ -2,7 +2,8 @@
 layout: essay
 type: essay
 title: Boxing With Unity
-date 2020-01-21
+# All dates must be YYYY-MM-DD format!
+date: 2020-01-21
 labels:
   - Unity
   - C#
