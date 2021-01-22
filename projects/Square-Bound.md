@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Square-bound splash.png
+image: images/Square-bound splash.jpg
 title: Square-Bound
 permalink: projects/Square-Bound
 # All dates must be YYYY-MM-DD format!
