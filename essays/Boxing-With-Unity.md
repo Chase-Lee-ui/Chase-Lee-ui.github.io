@@ -10,7 +10,7 @@ labels:
   - Competition
 ---
 
-<img class="ui tiny right spaced image" src="../images/beginnersgamejam.png">
+<img class="ui medium right floated rounded image" src="../images/beginnersgamejam.png">
 
 In my fall 2020 semester at UH Manoa, I had participated in a game jam called the Beginner's Circle Jam, where beginners at Unity create a game completely from scratch. To preface
 why I joined the coding competition despite being totally new to Unity, I wanted to do a summer internship at Riot Games and wanted to bulk up my resume just a little. There also
