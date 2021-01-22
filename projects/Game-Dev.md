@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/unityimg.jpg
+image: images/unitysquare.png
 title: UH Game Dev Club
 permalink: projects/Game-Dev
 # All dates must be YYYY-MM-DD format!
