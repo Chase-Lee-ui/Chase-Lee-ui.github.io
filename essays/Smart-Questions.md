@@ -13,7 +13,8 @@ labels:
 Asking questions about programming is similar to finding your way out of a forest. In order to get out you need to know what direction you need to go in, otherwise you will just
 head further into the forest. Figuring out the path you're going down in programming can be key to approaching problems, and understanding whether or not you're on the right path,
 you need to figure out whats in your surroundings. After reading "[How To Ask Questions the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)," it can be said there are
-good ways to approach problems than just asking "what happend."
+good ways to approach problems than just asking "what happend." In order to get out of this metaphorical forest, we must first know how to help ourselves, and from there we can
+move towards the right way.
 
 ## Good Questions: It's Okay to Be New
 It is okay to ask seemingly "newbie" questions, just as long as you have done the preliminary searches. In order to ask the correct question, you need to know what you're working
@@ -37,4 +38,8 @@ a glance of their code it does not take a professional  to a major problem in th
 explain everything in his code, nor things he has already done to fix the problem. This user also seems to be posting what appears to be a question for their homework.
 
 ## Exiting the Forest
-Finding the right pattern 
+Picking up the correct patterns to ask good questions will allow one to become a better programmer. In order to pick up the pattern, I have discussed that in order to ask good
+questions you would need to explain what your code does and what it needs to to, that and proving that you know all the surrounding information and that you have done what could
+be done to your knowledge. Going by these standards will prevent you from forming a dependency on asking for help and allow you to become a better programmer in general. This can
+also be used outside of programming, applying critical thinking and then asking for help after everything has been done will surely provide great results for what you're working with
+and any other future projects that may come along.
