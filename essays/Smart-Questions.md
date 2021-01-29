@@ -36,7 +36,7 @@ may post bad questions might not even know what they're working on, they might n
 from earlier, identifying landmarks and relaying it to the search team can definitely help them find you. Identifying landmarks would be similar to know the names of various things
 in programming.
 
-And another thing is to definitely not ask any homework looking questions. The user of this [post](https://stackoverflow.com/questions/65943921/program-wont-print-out-amount-of-characters-that-are-in-a-file) does not seem to appear to know a thing about their work.
+And another thing is to not ask questions that look straight out of a homework problem. The user of this [post](https://stackoverflow.com/questions/65943921/program-wont-print-out-amount-of-characters-that-are-in-a-file) does not seem to appear to know a thing about their work.
 <img class="ui large left spaced image" src="../images/javascriptgood.png">
 ```
 int main()
@@ -54,7 +54,7 @@ int main()
 ```
 
 This user also seems to exhibit the patterns of someone who may ask bad questions. Just at a glance of their code it does not take a professional  to a major problem in their code, that being the random "return 0" statement in the middle of the main. He does not even explain everything in his code, nor things he has already done to fix the problem. This user also seems to be posting what appears to be a question for their homework. This user is not using their critical thinking abilities to figure out why their code is not working. Which
-makes them ask a bad question on a busy forum.
+makes them ask a bad question on a busy forum. Learn from the mistakes of others so that you do not make them, and we can learn a lot from this post.
 
 ## Exiting the Forest
 Picking up the correct patterns to ask good questions will allow one to become a better programmer. In order to pick up the pattern, I have discussed that in order to ask good
