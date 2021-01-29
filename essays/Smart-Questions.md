@@ -10,7 +10,7 @@ labels:
   - Questions
 ---
 
-<img class="ui tiny right spaced image" src="../images/forestlost.jpg"> *"Not all those who wander are lost..."*
+<img class="ui medium right spaced image" src="../images/forestlost.jpg"> *"Not all those who wander are lost..."*
 
 # Finding a Way Out
 Asking questions about programming is similar to finding your way out of a forest. In order to get out you need to know what direction you need to go in, otherwise you will just
@@ -25,7 +25,7 @@ with and do everything you need to do. Do not quit to ask a question at the firs
 in programming, it gives you a habitual reliance on asking questions to places like StackOverflow. In other words, the more you can do the better. However, no one is immune to times
 where they are absolutely stumpted so they ask sources on how to improve one's code. This [question](https://stackoverflow.com/questions/1168807/how-can-i-add-a-key-value-pair-to-a-javascript-object) on StackOverflow provides a nice example on what a good question may look like.  
 
-<img class="ui tiny left spaced image" src="../images/javascriptgood.png">
+<img class="ui medium left spaced image" src="../images/javascriptgood.png">
 
 Above is the discussed question, and just by glancing at the question it appears that the user who posted the question knows what they're doing up to a degree, they just need a 
 little push in the right direction. They use proper grammar, punctuation, and spacing. Not only that but they have completely identified their problem and made their post clear and succint. Although to some veteran javascript coders, this may look like quite a elementary problem. People are out there to help, just remember to be courteous to those that provide help, and do not be a nuisance. Your questions can also help others that may be stuck on similar problems.
@@ -37,7 +37,7 @@ from earlier, identifying landmarks and relaying it to the search team can defin
 in programming.
 
 And another thing is to definitely not ask any homework looking questions. The user of this [post](https://stackoverflow.com/questions/65943921/program-wont-print-out-amount-of-characters-that-are-in-a-file) does not seem to appear to know a thing about their work.
-<img class="ui tiny left spaced image" src="../images/javascriptgood.png">
+<img class="ui medium left spaced image" src="../images/javascriptgood.png">
 ...
 int main()
 {
