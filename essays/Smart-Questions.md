@@ -9,6 +9,10 @@ labels:
   - StackOverflow
   - Questions
 ---
+
+<img class="ui tiny right spaced image" src="../images/forestlost.jpg>
+                                             "not all those who wander are lost" - 
+
 # Finding a Way Out
 Asking questions about programming is similar to finding your way out of a forest. In order to get out you need to know what direction you need to go in, otherwise you will just
 head further into the forest. Figuring out the path you're going down in programming can be key to approaching problems, and understanding whether or not you're on the right path,
