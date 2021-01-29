@@ -27,7 +27,7 @@ where they are absolutely stumpted so they ask sources on how to improve one's c
 knows what hes working with, that they just need a little push in the right direction. They use proper grammar, punctuation, and spacing. Not only that but they have completely
 identified their problem and made their post clear and succint. Although to some veteran javascript coders, this may look like quite a elementary problem. People are out there to help, just remember to be courteous to those that provide help, and do not be a nuisance. Your questions can also help others that may be stuck on similar problems. 
 
-<img class="ui tiny left spaced image" src="../images/javascriptgood.jpg">
+<img class="ui tiny left spaced image" src="../images/javascriptgood.png">
 
 ## Bad Questions: A Lesson in What Not to Do
 There are definitely sub-optimal ways to ask questions, but identifying the patterns that allows bad questions to exist will give insight into how they form. For one, people who
