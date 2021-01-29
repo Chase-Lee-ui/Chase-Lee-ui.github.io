@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Being Smart About Being Dumb
+title: Being Smart About Being New
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-28
 labels:
