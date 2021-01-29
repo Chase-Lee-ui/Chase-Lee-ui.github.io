@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img class="ui tiny right spaced image" src="../images/javascript.png">
+<img class="ui tiny right spaced image" src="../images/javascript.png"> “When once you have tasted flight, you will forever walk the earth with your eyes turned skyward, for there you have been, and there you will always long to return.” – Leonardo DaVinci
 
 For my spring 2021 semester at UH Manoa, I will be taking a class where I learn the major concepts of Javascript. In this class, I will be learning how to apply my Javascript code and
 learn other aspects of Javascript and coding in general, such as quality assurance of user interface. I am excited for my future in this course because it looks very promising for
