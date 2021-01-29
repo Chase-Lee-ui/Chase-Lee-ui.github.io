@@ -10,8 +10,7 @@ labels:
   - Questions
 ---
 
-<img class="ui tiny right spaced image" src="../images/forestlost.jpg>
-                                             "not all those who wander are lost" - 
+<img class="ui tiny right spaced image" src="../images/forestlost.jpg"> "Not all those who wander are lost..."
 
 # Finding a Way Out
 Asking questions about programming is similar to finding your way out of a forest. In order to get out you need to know what direction you need to go in, otherwise you will just
