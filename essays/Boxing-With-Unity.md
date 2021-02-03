@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Boxing With Unity
-# All dates must be YYYY-MM-DD format!
+# All dates must be YYYY-MM-DD format! Changed this
 date: 2020-01-21
 labels:
   - Unity
