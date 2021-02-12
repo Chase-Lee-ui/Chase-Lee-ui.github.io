@@ -10,11 +10,14 @@ labels:
   - Competition
 ---
 
-<img class="ui medium right floated rounded image" src="../images/squadgoals.jpg">
+<img class="ui medium right floated rounded image" src="../images/squadgoals.jpg"> *"A different language is a different vision of life." - Federico Fellini*
 
-Coding standards, what are they and who made them? Well coding standards were agreed and made to read code efficiently, by using this standard it allows coders to code homgenously.
+Coding standards, what's the deal with that? Well coding standards were agreed and made to read code efficiently, by using this standard it allows coders to code homgenously.
 This allows multiple people to work on one piece of work all at once. If for whatever reason that everyone on a project just got up and switched to a completely different part
-of a coding project, then they should be able to pick up on what is going on after a couple of minutes.
+of a coding project, then they should be able to pick up on what is going on after a couple of minutes. Coding standards is synonymous to speaking the same dialect of a language.
+Since there are already so many coding languages, speaking in the same dialect would be necessary to understand each other. For example, if I took random people from different
+countries to speak some language, there might be some difficulty understanding one another due to pronunciation, enunciation, or use of colloquialism. Had they all taken the same
+language class, they would just speak properly, but going along with my analogy, they would also understand one another better.
 
 ## As It Pertains to Coding Class
 
