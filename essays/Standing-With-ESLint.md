@@ -10,7 +10,7 @@ labels:
   - Competition
 ---
 
-<img class="ui medium right floated rounded image" src="../images/beginnersgamejam.png">
+<img class="ui medium right floated rounded image" src="../images/squadgoals.jpg">
 
 Coding standards, what are they and who made them? Well coding standards were agreed and made to read code efficiently, by using this standard it allows coders to code homgenously.
 This allows multiple people to work on one piece of work all at once. If for whatever reason that everyone on a project just got up and switched to a completely different part
@@ -24,10 +24,8 @@ some homogenity going on between then and now.
 
 ## Groups For Now
 
-I feel that reinforcing a coding class under one coding standard will allow classmates to unite under it. For example, one of my recent Workout of the Day (WOD), I was struggling on the
-first function where I had to identify whether or not a certain string had appeared in any of the lines of a passed array with strings. However, I had a teammate who had zoomed passed
-though it and I asked for some of his help, he read his code to me and I understood it even though all he was telling me was "some, lists, function, list..." I was able to understand
-it for what it was because the entire class codes under one coding standard. Therefore, coding standards definitely have a place in a learning environment.
+I feel that reinforcing a coding class under one coding standard will allow classmates to unite under it. For example, one of my recent Workout of the Day (WOD), I was struggling on the first function where I had to identify whether or not a certain string had appeared in any of the lines of a passed array with strings. However, I had a teammate who had zoomed passed though it and I asked for some of his help, he read his code to me and I understood it even though all he was telling me was "some, lists, function, list..." I was able to understand it for what it was because the entire class codes under one coding standard. I have also helped people in the same way, just by listing the names of things in hopes that
+they will understand and get it. Most times they do, but sometimes I need to explain it in a couple more words than that. Therefore, coding standards definitely have a place in a learning environment.
 
 ## Groups For the Future
 
@@ -47,4 +45,4 @@ getting bored. Therefore, a group should abide by one coding standard, to improv
 I really enjoy naming conventions in books or stories, so in independent projects, I would like to made some absurd naming conventions. This would only be if I knew that
 no one else was going to look at my work. The idea is that I make varibles and methods names go after a theme, for example in heritance I would name the parent class Zeus
 and name all the classes beneath that one something like Hercules. I do this to make coding a little more fun, but in reality I might just end up naming variables something
-like "please_Work" if I am really struggling, which I hope I don't succumb to. 
+like "please_Work" if I am really struggling, which I hope I don't succumb to. But hopefully, I just have a bunch of inside jokes that I can laugh at by myself. 
