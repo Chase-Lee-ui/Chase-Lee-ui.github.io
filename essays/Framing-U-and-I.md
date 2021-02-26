@@ -36,3 +36,5 @@ but I wanted to give it as much time and my 100% because I like him so much. The
 of my own design ideas that would make the site more impactful. However, I am not entirely sure how I would implement it. But by the end of the course that I am taking now I will for sure know how to implement some advanced design effects that I have fermenting in my mind. One of these ideas is to have a bright red outline across the outline of the store merch
 when you hover over it. Although, I might be overthinking things since there is beauty in simplicity which the Joji site definitely aims for, and I also believe in the opposite where
 there is ugliness in too much detail; see the previously mentioned [Ling's Cars](https://www.lingscars.com/) website.
+
+Although I want to recreate a bunch of my favorite music artists merch store sites, I want to create a site of my own and showcase what I can do.
