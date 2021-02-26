@@ -20,7 +20,10 @@ the worst eye-gore site to ever grace the internet. It's been updated in the rec
 such an old site and has been hearlded as the worst site design on the net.
 
 I have started to use Semantic-UI for my current UI Framework of choice because of my current computer science class and so far I am enjoying it since it is easy and verstile UI
-framework to use. All documentation is available on the 
+framework to use. All documentation is available on the semantic-ui.com website, it is easy to read with illustrations. I believe that anyone can learn how to code using Semantic-UI
+within an afternoon, but mastering it may take quite a while. I have had some trouble myself trying to recreate websites using Semantic-UI with understanding how things are spaced
+and how containers, menus and grids are used. But after getting over that difficulty curve it was pretty easy to understand the other parts of Semantic-UI. Semantic-UI tends to keep
+things easy to digest and easy to use.
 
 ## Now for the Semantics
 
