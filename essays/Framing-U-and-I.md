@@ -10,9 +10,9 @@ labels:
   - Website Design
 ---
 
-<img class="ui medium right floated rounded image" src="../images/beginnersgamejam.png">
+<img class="ui medium right floated rounded image" src="../images/lingscars.png">
 
-## What is an UI Framework?
+## What is a UI Framework?
 
 UI Frameworks are styles that you can use on your website through use of CSS and HTML code. UI Frameworks can really boost the look of your site into an attractive thing that users
 would want to click around on. Many websites can benefit from utilizing UI Frameworks like [Ling's Cars](https://www.lingscars.com/) which is one of the most infamous sites for having
