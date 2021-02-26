@@ -34,7 +34,7 @@ looking design or attractive appeal. I should recreate it one day to just show t
 
 ## My Recreation
 
-I had actually recreated a site of one of my favorite music artist merchandise store, [Joji](https://shop.jojimusic.com/), and it was kind of a lifting experience. I had actually 
+I have actually recreated a site of one of my favorite music artist merchandise store, [Joji](https://shop.jojimusic.com/), and it was kind of a lifting experience. I had actually 
 enjoyed recreating the site using Semantic-UI because I got to take a lot of time looking at my favorite artist. Although I do think I took too much time to recreate his site, 
 but I wanted to give it as much time and my 100% because I like him so much. The recreation was for an assignment but I kind of wanted to go a step further and implement some 
 of my own design ideas that would make the site more impactful. However, I am not entirely sure how I would implement it. But by the end of the course that I am taking now I will for sure know how to implement some advanced design effects that I have fermenting in my mind. One of these ideas is to have a bright red outline across the outline of the store merch
