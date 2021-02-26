@@ -32,7 +32,7 @@ basic. However, looking back on it I wished that either the school was funded mo
 design because I am kind of enjoying it so far. I still remember my poor HTML site that just had a bland blue background with pictures coupled right next to each other with no smooth
 looking design or attractive appeal. I should recreate it one day to just show the juxtaposition of how far I have come since then.
 
-## My Recreation
+## My Recreation and Plans for the Future
 
 I have actually recreated a site of one of my favorite music artist merchandise store, [Joji](https://shop.jojimusic.com/), and it was kind of a lifting experience. I had actually 
 enjoyed recreating the site using Semantic-UI because I got to take a lot of time looking at my favorite artist. Although I do think I took too much time to recreate his site, 
