@@ -10,7 +10,7 @@ labels:
   - MongoDB
 ---
 
-<img class="ui medium right floated rounded image" src="../images/beginnersgamejam.png">
+<img class="ui medium right floated rounded image" src="../images/flowchart2.png">
 
 In some of my past times I like to use a program called Paint Tool Sai to semi-professionally make pieces of art for me and my friend, it makes it nice and easy in that it has layer
 control, filters, color mixing, different kinds of brushes, and a stablizier but those are just there to allow me to make my work more easily. But there is always a process I have
