@@ -10,11 +10,12 @@ labels:
   - MongoDB
 ---
 
-<img class="ui medium right floated rounded image" src="../images/flowchart2.png">
+<img class="ui medium right floated rounded image" src="../images/flowchart2.jpg">
 
 In some of my past times I like to use a program called Paint Tool Sai to semi-professionally make pieces of art for me and my friend, it makes it nice and easy in that it has layer
 control, filters, color mixing, different kinds of brushes, and a stablizier but those are just there to allow me to make my work more easily. But there is always a process I have
-to go through when making a piece of work which is the sketch into lineart into colors and shading. My process in creating a piece of art is similar to that of 
+to go through when making a piece of work which is the sketch into lineart into colors and shading. My process in creating a piece of art is similar to that of design patterns in
+computer science.
 
 ## The Publisher and the Subscriber
 In Paint Tool Sai a user can toggle between layers, allowing them to be shown or not shown depending on whether or not a button has been toggled. A simple full image can be broken
@@ -39,3 +40,7 @@ This relates to my own group project where me and my team collaborate to plan ou
 that perform their work in the form of code, we will create a site that a user can navigate, and the site that we and other users will see will be the piece of art. An MVC cycle
 is a good way for a site to navigate through different sections of a porject as it works in a methodical way.
 
+## My Purposes for Design Patterns
+Design patterns are very useful in that they are a good model for accessing, publishing and editing data, it gives a simple intro into how databases are accessed in a simple website
+project. The use of design patterns are also useful in group projects in establishing a procedure that will be used across the website, that way there is less communication needed
+but a better general understanding is made.
