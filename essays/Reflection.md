@@ -10,11 +10,12 @@ labels:
   - Ethics
 ---
 
-<img class="ui medium right floated rounded image" src="../images/beginnersgamejam.png">
+<img class="ui large floated rounded image" src="../images/success.jpg">
 
-Throughout my first software engineering course I had learned many things both in terms of coding and project development. I had also gained a greater foundation for
-problem-solving, also in terms of coding and project development as this course is made to give students a greater understanding of coding and working with peers. However,
-some topics had stuck out to me as very important in general as a software engineer and as a programmer.
+I've finally reached the first goal in my software engineering career, complete ICS314: Software Engineering I. Throughout my first software engineering course I had learned 
+many things both in terms of coding and project development. I had also gained a greater foundation for problem-solving, also in terms of coding and project development as 
+this course is made to give students a greater understanding of coding and working with peers. However, some topics had stuck out to me as very important in general as a 
+software engineer and as a programmer.
 
 ## Open Source Software Development
 Open Source Software is an excellent tool to use when learning and creating something. In addition to making a project open source, it will allow other developers to take
