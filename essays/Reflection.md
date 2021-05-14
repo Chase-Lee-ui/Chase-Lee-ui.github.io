@@ -10,7 +10,7 @@ labels:
   - Ethics
 ---
 
-<img class="ui large floated rounded image" src="../images/success.jpg">
+<img class="ui large image" src="../images/success.jpg">
 
 I've finally reached the first goal in my software engineering career, complete ICS314: Software Engineering I. Throughout my first software engineering course I had learned 
 many things both in terms of coding and project development. I had also gained a greater foundation for problem-solving, also in terms of coding and project development as 
