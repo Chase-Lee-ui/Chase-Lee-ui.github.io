@@ -13,7 +13,7 @@ labels:
 summary: My team and I created a program that allows UH Manoa community members to buy items that are new, used, or old
 ---
 
-<img class="ui image" src="../images/SquareBound.png">
+<img class="ui image" src="../images/LandingBig.png">
 
 ## Overview
 Campus Clearout Center is a project that allows UH Manoa community members to buy items that other members of the UH Manoa community are willing to part with for a small sum
