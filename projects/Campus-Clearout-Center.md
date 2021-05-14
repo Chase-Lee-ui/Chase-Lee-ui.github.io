@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Square-bound splash.jpg
+image: images/LandingBig.png
 title: Campus Clearout Center
 permalink: projects/Square-Bound
 # All dates must be YYYY-MM-DD format!
